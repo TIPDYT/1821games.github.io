@@ -1,2 +1,7 @@
-# 1821games.github.io
-1821 Games
+# 1821games.github.io Website
+It includes my friend's games!
+Enjoy ;)
+
+Source code here...
+
+HTML,CSS,JS,C++,PHP
